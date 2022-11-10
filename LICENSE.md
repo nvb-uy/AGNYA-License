@@ -96,8 +96,8 @@ author is given.
 4. Usage of parts of this project as part of another, original project
 
 
-Using parts of this projects source code as part of another, original
-project requires explicit permission from this projects author.
+Using parts of this project's source code as part of another, original
+project requires explicit permission from this project's author.
 Furthermore this project, its author and the parts used have to be
 clearly credited. Additionally any means of monetization on this modified
 version are prohibited unless explicit permission is given.
