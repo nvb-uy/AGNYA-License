@@ -1,8 +1,12 @@
-AGNYA Modding License
-Copyright (C) [year] [author]
+### AGNYA Modding License
+
+Copyright (C) [year] [author] 
+
+All rights reserved unless explicitly stated.
+
 Rev 1.
 
-TERMS AND CONDITIONS
+### TERMS AND CONDITIONS
 
 
 0. Definitions.
