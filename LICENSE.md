@@ -1,10 +1,12 @@
-### AGNYA Modding License
+### AGNYA License
 
 Copyright (C) [year] [author] 
 
-All rights reserved unless explicitly stated.
+All rights reserved unless explicitly stated. Rev 1.2
 
-Rev 1.
+
+You may get a full copy of this license at https://github.com/nvb-uy/AGNYA-License
+
 
 ### TERMS AND CONDITIONS
 
