@@ -2,7 +2,7 @@
 
 Copyright (C) [year] [author] 
 
-All rights reserved unless explicitly stated. Rev 1.2
+All rights reserved unless explicitly stated. Rev 1.3
 
 
 You may get a full copy of this license at https://github.com/nvb-uy/AGNYA-License
@@ -23,7 +23,7 @@ License. Each licensee is addressed as "you". "Licensees", "users" and
 "recipients" may be individuals or organizations.
 
 
-"The Author" refers to the original creator of this project and its
+"The Author" or "Original Author" refers to the original creator of this project and its
 source code.
 
 
@@ -53,8 +53,7 @@ computer network, with no transfer of a copy, is not conveying.
 To "contribute" refers to offering any form of material held to copyright to
 be used in the project.
 This could be in any way, such as, but not limited to: pull requests, explicitly
-sharing it with the author or giving permission to the usage of it.
-By contributing, you must hold all copyright rights of the material.
+sharing it with the author or giving permission for the use of it.
 
 
 1. Redistribution
@@ -83,10 +82,11 @@ See section 3 for more information about public modifications.
 
 
 Public redistribution of a modified version of this project or its code requires
-explicit permission from the original author. In order for the
-modification to be applicable for this it has to contain a certain amount
-of original work by the user. This modified version has to use the same
-license as the original project.
+explicit permission from the original author.
+In order for the modification to be applicable for this it has to contain a certain amount
+of original work by the user. 
+This modified version's source code must be publicly available unless explicit permission is given by the original author.
+The modification's license must not be changed unless explicit permission is given by the original author.
 Furthermore the original project and its author have to be clearly
 credited. Any means of monetization through this modified version is
 strictly prohibited unless explicit permission by the original project's
@@ -120,6 +120,7 @@ project.
 
 All form of contribution on this project, let it be public or private, 
 will be under the Creative Commons 0 1.0 Universal (CC0 1.0) License.
+By contributing, you agree that you hold all copyright rights of the material you are contributing.
 
 
 7. Disclaimer
